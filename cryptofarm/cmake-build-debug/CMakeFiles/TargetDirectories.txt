@@ -1,0 +1,3 @@
+C:/Users/vi/CLionProjects/cryptofarm/cmake-build-debug/CMakeFiles/cryptofarm.dir
+C:/Users/vi/CLionProjects/cryptofarm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vi/CLionProjects/cryptofarm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
